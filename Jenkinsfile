@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('df') {
       steps {
-        sh 'env
+        sh 'env'
       }
     }
   }
